@@ -12,7 +12,7 @@ input ('start>>> PRESS ENTER','s'); % prints to command window
 
 % ----- soundfile
 path_store_data = './data/';
-path_audio_data = '/Users/neeks/Desktop/Documents/work/research/my_repos/eyeTracking_langTCD/data/STIMULI/german/wavFilesTest/';
+path_audio_data = './data/STIMULI/german/wavFilesTest/';
 stimuli_list = 'stimuli_list.csv';
 
 % ----- read the csv list
